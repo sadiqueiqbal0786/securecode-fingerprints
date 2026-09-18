@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "version": 1,
+  "issued": "2026-09-18",
+  "payload_sha256_16": {
+    "853ae6528b901a5d": "A10 payload body, 32,330 bytes, appended after a whitespace pad in a JS config file (2026-07 to 2026-08)",
+    "4d442739b90fae93": "A10 payload body, 31,714 bytes, marker A10-*41460, in postcss.config.mjs (2026-09)",
+    "7e82e254d59218cf": "A10 payload body, 32,329 bytes, marker A10-*13780, after a 507-byte pad in eslint.config.js (2026-08)",
+    "e4b3cfe744e27c42": "A10 payload body, 32,327 bytes, marker A10-*020, in a fake .woff2 font run by a VS Code task (2026-08)"
+  },
+  "blob_ids": {
+    "816f03f3aa1561721db6df5e8c422d1c1ae69955": "Port Flow: infected Vite prebundle chunk (committed .vite/deps)",
+    "b1f74feb3ae2a9e562602ad10007611b366aa9c3": "Port Flow: infected Vite prebundle chunk (committed .vite/deps)",
+    "98761a2481108d7875be57c79200e8e4ea0addd3": "Port Flow: infected Vite prebundle sourcemap",
+    "e72171f79113ae5baa391dab20a3b303ff8a797a": "Port Flow: infected backend routes/index.js (2026-05)",
+    "ef204681b6f6ba3ae5c907d9da8e9fe2c5f4a164": "Port Flow: infected backend routes/index.js (2026-05)",
+    "32246c5c6bced97e02145cc87abb91cd2786995e": "Port Flow: infected backend routes/index.js (2026-06 to 2026-07)",
+    "3ac212affd5f18d8432db586016aa433e620abf0": "Port Flow: infected backend routes/index.js (2026-08)",
+    "7ad8ad6206d1": "A10: postcss.config.mjs carrying A10-*41460 (2026-09)",
+    "f80f2eaa5a4fddc028738b76076d415d0b072702": "A10: eslint.config.js carrying A10-*13780 (2026-08)",
+    "cc50ab807e333f55192150c14fd0116407d45ff0": "A10 disguised as public/fonts/fa-solid-400.woff2 (2026-08)",
+    "5e226620d2e360205cc8634e3c581a008d382561": ".vscode/tasks.json that runs the fake font when the folder is opened (2026-08)"
+  },
+  "campaign_ids": {
+    "9-6063-1": "Family 2 loader id, vite.config.js",
+    "9-5889-1": "Family 2 loader id, re-injected under a fake 'remove injection' commit",
+    "A10-*13780": "A10 loader id (2026-08)",
+    "A10-*41460": "A10 loader id (2026-09)",
+    "A10-*020": "A10 loader id, fake-font variant (2026-08)"
+  },
+  "commit_subjects": [
+    "remove injection",
+    "clean state",
+    "style: enhance typography",
+    "clean rebuild: single-root commit from verified clean tree"
+  ]
+}
