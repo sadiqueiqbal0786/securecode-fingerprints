@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "version": "0.1.0",
+  "released": "2026-09-19",
+  "notes": [
+    "First public beta for Apple Silicon Macs",
+    "Sealed audits of folders, ZIPs and whole repositories, including pull requests",
+    "Clean-up and history rebuild, signed fingerprint updates, offline first-run setup"
+  ],
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.0/SecureCode-Auditor-0.1.0-apple-silicon.dmg",
+  "sha256": "f3aef69f76ce8d256204c7d86e98b9205453d766eedfdf9a65bfd161149b66a1",
+  "minimum_macos": "13.0"
+}
