@@ -1,13 +1,14 @@
 {
   "format": 1,
-  "version": "0.1.3",
+  "version": "0.1.4",
   "released": "2026-09-20",
   "notes": [
-    "Clean-up is now a walk-through: one decision per step",
-    "Three steps to clean a copy on your Mac, five to rebuild a repository",
-    "Finishing a step carries you on; Back always works"
+    "Drag a project onto the window to audit it",
+    "One tap to audit something you audited before",
+    "Errors now offer the fix: start the container app, set up the scanner, choose a folder",
+    "A clean result says what was read, and what it does not promise"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.3/SecureCode-Auditor-0.1.3-apple-silicon.dmg",
-  "sha256": "872043a85b90c688cfa9db4f2bea9bdf52dce97798298a7d05faf95717244a96",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.4/SecureCode-Auditor-0.1.4-apple-silicon.dmg",
+  "sha256": "53d4f549c04944b003fdce2b6ca6ed5b400a8c97691c9c4077362af8f4193e59",
   "minimum_macos": "13.0"
 }
