@@ -1,14 +1,13 @@
 {
   "format": 1,
-  "version": "0.1.2",
+  "version": "0.1.3",
   "released": "2026-09-20",
   "notes": [
-    "Try a sample project: see a real audit without a repository of your own",
-    "The verdict now offers clean-up, a report, or another audit",
-    "Findings are titled in plain words",
-    "Stop a long audit; recent audits are kept on your Mac and can be deleted"
+    "Clean-up is now a walk-through: one decision per step",
+    "Three steps to clean a copy on your Mac, five to rebuild a repository",
+    "Finishing a step carries you on; Back always works"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.2/SecureCode-Auditor-0.1.2-apple-silicon.dmg",
-  "sha256": "d491a5c0a690d5ef32dbe284b50b6af2d1eb074111b68af1cbedb30b2f0ef893",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.3/SecureCode-Auditor-0.1.3-apple-silicon.dmg",
+  "sha256": "872043a85b90c688cfa9db4f2bea9bdf52dce97798298a7d05faf95717244a96",
   "minimum_macos": "13.0"
 }
