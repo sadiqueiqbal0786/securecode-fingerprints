@@ -1,13 +1,14 @@
 {
   "format": 1,
-  "version": "0.1.1",
-  "released": "2026-09-19",
+  "version": "0.1.2",
+  "released": "2026-09-20",
   "notes": [
-    "Replaces 0.1.0, which has been withdrawn",
-    "The scanner engine now ships as compiled code, built into the sealed scanner",
-    "Audit results are unchanged"
+    "Try a sample project: see a real audit without a repository of your own",
+    "The verdict now offers clean-up, a report, or another audit",
+    "Findings are titled in plain words",
+    "Stop a long audit; recent audits are kept on your Mac and can be deleted"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.1/SecureCode-Auditor-0.1.1-apple-silicon.dmg",
-  "sha256": "176e6ae3f2872f625a918c8c84fd299ea4f85fdfb655a9fa6c6f8805bf408d1d",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.2/SecureCode-Auditor-0.1.2-apple-silicon.dmg",
+  "sha256": "d491a5c0a690d5ef32dbe284b50b6af2d1eb074111b68af1cbedb30b2f0ef893",
   "minimum_macos": "13.0"
 }
