@@ -1,14 +1,13 @@
 {
   "format": 1,
-  "version": "0.1.4",
-  "released": "2026-09-20",
+  "version": "0.1.5",
+  "released": "2026-09-24",
   "notes": [
-    "Drag a project onto the window to audit it",
-    "One tap to audit something you audited before",
-    "Errors now offer the fix: start the container app, set up the scanner, choose a folder",
-    "A clean result says what was read, and what it does not promise"
+    "Fixed: a repository that checks itself for this malware was called infected",
+    "The loader marker now has to be used, not merely named",
+    "Detection of the real marker is unchanged, with six new tests to prove it"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.4/SecureCode-Auditor-0.1.4-apple-silicon.dmg",
-  "sha256": "53d4f549c04944b003fdce2b6ca6ed5b400a8c97691c9c4077362af8f4193e59",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.5/SecureCode-Auditor-0.1.5-apple-silicon.dmg",
+  "sha256": "edeca18d85dc068faac6b298761861298ff666ece0d49d8c637468f7c3d0186c",
   "minimum_macos": "13.0"
 }
