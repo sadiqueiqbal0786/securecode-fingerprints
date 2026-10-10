@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "version": "0.1.6",
+  "version": "0.1.7",
   "released": "2026-10-10",
   "notes": [
-    "Cleaning a branch no longer discards its history",
-    "Only the commits carrying the malware are rebuilt; authors, dates and messages are kept",
-    "Five checks prove nothing else changed, and the old single-commit rebuild is still a choice"
+    "After a clean-up the app says what is left: re-clone every copy, the other branches, the pull requests",
+    "The purge message for GitHub now names every commit the rewrite replaced, and the pull-request refs",
+    "Test directories, createRequire shims and remote script tags are judged by use, not by name"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.6/SecureCode-Auditor-0.1.6-apple-silicon.dmg",
-  "sha256": "3e94a931402ed9495c91eec31ae195ea6b1b738fe958ffde101ad8f6a4f62d1a",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.7/SecureCode-Auditor-0.1.7-apple-silicon.dmg",
+  "sha256": "de8b7978ae854c87571b88827974862f15c5cda175311aa5e0958851c90532f8",
   "minimum_macos": "13.0"
 }
