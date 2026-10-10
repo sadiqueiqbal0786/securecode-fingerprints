@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "version": "0.1.5",
-  "released": "2026-09-24",
+  "version": "0.1.6",
+  "released": "2026-10-10",
   "notes": [
-    "Fixed: a repository that checks itself for this malware was called infected",
-    "The loader marker now has to be used, not merely named",
-    "Detection of the real marker is unchanged, with six new tests to prove it"
+    "Cleaning a branch no longer discards its history",
+    "Only the commits carrying the malware are rebuilt; authors, dates and messages are kept",
+    "Five checks prove nothing else changed, and the old single-commit rebuild is still a choice"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.5/SecureCode-Auditor-0.1.5-apple-silicon.dmg",
-  "sha256": "edeca18d85dc068faac6b298761861298ff666ece0d49d8c637468f7c3d0186c",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.6/SecureCode-Auditor-0.1.6-apple-silicon.dmg",
+  "sha256": "3e94a931402ed9495c91eec31ae195ea6b1b738fe958ffde101ad8f6a4f62d1a",
   "minimum_macos": "13.0"
 }
