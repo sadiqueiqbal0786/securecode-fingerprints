@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "version": "0.1.7",
+  "version": "0.1.8",
   "released": "2026-10-10",
   "notes": [
-    "After a clean-up the app says what is left: re-clone every copy, the other branches, the pull requests",
-    "The purge message for GitHub now names every commit the rewrite replaced, and the pull-request refs",
-    "Test directories, createRequire shims and remote script tags are judged by use, not by name"
+    "Replaces 0.1.7, which reported its own version as 0.1.6 and so offered an update to itself",
+    "A finding that is only in the project's history is marked, counted and sorted as such",
+    "A folder too large for one sealed container is read in several, and the parts are added up"
   ],
-  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.7/SecureCode-Auditor-0.1.7-apple-silicon.dmg",
-  "sha256": "de8b7978ae854c87571b88827974862f15c5cda175311aa5e0958851c90532f8",
+  "download_url": "https://github.com/sadiqueiqbal0786/securecode-releases/releases/download/v0.1.8/SecureCode-Auditor-0.1.8-apple-silicon.dmg",
+  "sha256": "2e991e97938f41faeaaf48b91f14af02ea9f9ac7624e4daef1ee74f851cf9e65",
   "minimum_macos": "13.0"
 }
